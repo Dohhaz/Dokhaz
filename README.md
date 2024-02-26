@@ -2,7 +2,7 @@
 - 👀 I’m interested in testing, SQL, JAVA, video and board games
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [...](https://www.linkedin.com/in/michal-mazurek-istqb-certified-tester/)
+- 📫 How to reach me [my linkedin](https://www.linkedin.com/in/michal-mazurek-istqb-certified-tester/)
 - ⚡ Fun fact: ...
 
 <!---
