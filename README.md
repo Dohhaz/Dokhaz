@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michal Mazurek @Dokhaz
-- 👀 I’m interested in testing, SQL, JAVA, video and board games
+- 👀 I’m interested in testing, SQL, JAVA, video and board games and TRAVEL! I would like to see every corner of the world someday :)
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [my linkedin](https://www.linkedin.com/in/michal-mazurek-istqb-certified-tester/)
